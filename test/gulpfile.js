@@ -29,7 +29,7 @@
 
 var gulp = require('gulp');
 var del = require('del');// gulp删除插件
-var uglify = require('gulp-uglify');// gulp删除插件
+var uglify = require('gulp-uglify');// 压缩js插件
 var css = require('gulp-clean-css');　　//gulp压缩css文件
 var rename = require("gulp-rename");　　//引用重命名插件
 var rev = require('gulp-rev');//文件添加哈希值
