@@ -1,0 +1,1 @@
+var acc=1,acb=2,atb=2,a2b=2;function test(a,c){return a+c+acc}

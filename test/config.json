@@ -1,0 +1,8 @@
+{
+    "common":{
+        "url":"abc123"
+    },
+    "obj":{
+        "name":"test"
+    }
+}
